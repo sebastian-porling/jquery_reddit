@@ -1,0 +1,19 @@
+body {
+    margin: 0 auto;
+}
+.title-overflow {
+    text-overflow: ellipsis;
+}
+h5.card-title {
+    font-size: 1em !important;
+}
+.card-title {
+    width: 100%;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.card {
+    height: 100%;
+}
